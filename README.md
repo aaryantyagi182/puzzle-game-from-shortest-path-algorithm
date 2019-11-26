@@ -1,1 +1,1 @@
-# puzzle-game-with-A--algorithm
+# puzzle-game-with-A*-algorithm
